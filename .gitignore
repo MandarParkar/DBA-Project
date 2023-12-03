@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+
+data/**
+
+**.csv
+
+.idea
+
+!data/games.csv
+!data/scores.csv
+!data/team.csv
+!data/tournament.csv
